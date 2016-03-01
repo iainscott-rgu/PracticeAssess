@@ -14,7 +14,9 @@
      max-width: 960px;
  }
 
-footer{
+.foot{
+
+    background-color: #363636;
 
     max-width: 960px;
 
@@ -80,10 +82,7 @@ h4{
     background-color: 	#782A7E;
 }
 
-.foot{
 
-    background-color: #363636;
-}
 .banner{
 
     max-width: 960px;
