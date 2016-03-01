@@ -41,13 +41,18 @@
 
 
 }
+
+main{
+
+    display: flex;
+    flex-direction: row;
+}
 .menu {
     max-width: 960px;
     margin-right: auto;
     margin-left: auto;
     height: 50px;
-    display: flex;
-    flex-direction: row;
+
 }
 
 
