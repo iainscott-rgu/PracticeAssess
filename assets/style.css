@@ -3,7 +3,10 @@
     height: 50px;
 }
 
+#img2{
 
+    max-width: 960px;
+}
 footer{
 
     text-align: left;
