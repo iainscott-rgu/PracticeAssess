@@ -17,6 +17,7 @@ main{
 
     display: flex;
     flex-direction: row;
+    max-width: 960px;
 }
 A:LINK{
 
