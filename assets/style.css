@@ -1,69 +1,89 @@
-body {
-    background-color: cornflowerblue;
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
+header{
+
+    font-family: 'Playfair Display', serif;
+    color: darkslategrey;
+    font-size: 12PT;
+}
+
+
+form{
+
+    color: #ffffff;
+    font-family: 'Playfair Display', serif;
+    font-size: 12PT;
+}
+
+table{
+
+    background-color: darkslategrey;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
-main {
-
-    margin-right: 0;
-    margin-left: 0;
-    margin-top: 0;
-    background-color: aliceblue;
-    padding: 0px;
-    flex-direction: row;
-    display: flex;
+p{
+    font-family: 'Playfair Display', serif;
 
 }
 
-#cont1 {
-    background-color: gold;
-    margin: 10px;
-    width: 1200px;
+footer{
+
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+
+    float: left;
+}
+
+li a{
+
+    display: inline-block;
+    padding: 0 10px 10px 10px;
+    text-decoration: none;
+
+}
+
+A:LINK{
+
+    COLOR: gold;
+}
+
+A:HOVER{
+
+    COLOR: red;
+}
+
+h1{
+
+    font-family: 'Playfair Display', serif;
+    font-size: 20Pt;
 
 
 }
-#cont2 {
-    background-color: silver;
-    margin: 10px;
 
+h2{
 
-
-}
-
-#cont3 {
-    background-color: saddlebrown;
-    margin: 10px;
-
-
-}
-
-.banner{
-    background-color: slategrey;
-    margin-top: 0;
-    margin-right: 0;
-    margin-left: 0;
     color: white;
 }
 
-.foot{
+h3{
 
-    background-color: slategrey;
-    margin-top: 0;
-    margin-right: 0;
-    margin-left: 0;
-    color: white;
-
-
+    font-family: 'Playfair Display', serif;
+    font-size: 20Pt;
 }
 
-.nav {
-    background-color: lightgray;
-    margin-top: 0;
-    margin-right: 0;
-    margin-left: 0;
-    color: black;
-    text-align: right;
+h4{
+
+    color: white;
+}
+
 }
