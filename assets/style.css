@@ -6,6 +6,11 @@ body {
 
 }
 
+.img{
+    
+    max-height: 90%;
+}
+
 .logo{
 
     height: 50px;
