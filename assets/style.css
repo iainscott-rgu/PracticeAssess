@@ -79,8 +79,13 @@ li a{
 
 .nav {
 
+
+
+
+}
+
+.menu{
+
     display: flex;
     flex-direction: row;
-
-
 }
