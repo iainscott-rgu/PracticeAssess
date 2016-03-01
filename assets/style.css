@@ -30,6 +30,8 @@ main{
     display: flex;
     flex-direction: row;
     max-width: 960px;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 A:LINK{
 
@@ -80,13 +82,15 @@ h4{
 .sec1{
 
     background-color: 	#DBC9DF;
-    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 
 .sec2{
 
     background-color: 	#782A7E;
-    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 
 
