@@ -37,6 +37,7 @@ main {
 
 .col1 {
     background-color: #DBC9DF;
+    width: 66%;
 
 
 
@@ -44,6 +45,7 @@ main {
 }
 .col2 {
     background-color: #782A7E;
+    width: 33%;
 
 
 
