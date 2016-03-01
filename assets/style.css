@@ -41,4 +41,18 @@
 
 
 }
+.menu {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+nav{
+    background-color: gold;
+    height: 100px;
+    width: 100px;
+}
+s
 
