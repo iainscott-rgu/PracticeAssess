@@ -23,14 +23,14 @@ main {
     margin-left: auto;
     height: 400px;
     display: flex;
-    }
-
-
+    flex-direction: row;
+}
 
 .cols{
 
-    height: 200px;
-    width: 200px;
+
+    height: 100px;
+    width: 100px;
 
 
 }
