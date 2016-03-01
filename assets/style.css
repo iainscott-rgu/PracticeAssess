@@ -11,8 +11,11 @@ body {
     height: 50px;
 }
 
-.menu {
-
+main {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 400px;
     }
 
 li a{
