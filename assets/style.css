@@ -9,6 +9,7 @@ body {
 .img{
     
     max-height: 90%;
+
 }
 
 .logo{
@@ -77,6 +78,9 @@ li a{
 }
 
 .nav {
+
+    display: flex;
+    flex-direction: row;
 
 
 }
