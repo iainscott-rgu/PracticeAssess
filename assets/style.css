@@ -17,6 +17,12 @@ body {
 
 }
 
+.cols{
+
+    flex-direction: row;
+    display: flex;
+}
+
 .col1 {
     background-color: #DBC9DF;
 
@@ -54,7 +60,6 @@ body {
 }
 
 .nav {
-    flex-direction: row;
-    display: flex;
+
 
 }
